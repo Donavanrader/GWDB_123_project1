@@ -1,0 +1,23 @@
+/* CSS Document */
+
+body{
+	background: #1abc9c;
+	color: #ecf0f1;
+	margin: 0;
+}
+
+#header{
+	background: #e74c3c;
+	height: 30px;
+	width: auto;
+	padding: 10px;
+}
+
+.headerbutn{
+	height: 20px;
+	margin: 10px;
+}
+
+#body{
+	padding: 10px;
+}
